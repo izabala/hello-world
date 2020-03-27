@@ -1,2 +1,4 @@
 # hello-world
-My Hello World project
+Hi Humans!
+
+I like Python, PHP and JavaScript.  
